@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "3"
-author: "Бембо Жозе Лумингу"
+author: "Бембо Жозе Лумингу , НКАбд-01-23"
 
 ## Generic otions
 lang: ru-RU
