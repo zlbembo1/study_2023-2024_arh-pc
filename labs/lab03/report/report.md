@@ -1,8 +1,8 @@
 ---
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+subtitle: "3"
+author: "Бембо Жозе Лумингу"
 
 ## Generic otions
 lang: ru-RU
