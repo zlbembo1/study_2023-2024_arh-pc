@@ -2,7 +2,7 @@
 ## Front matter
 title: "Архитектура компьютера"
 subtitle: "Отчёт по лабораторной работе №7"
-author: "Ибрахим Мохсейн Алькамаль"
+author: "БЕМБО ЖОЗЕ ЛУМИНГУ"
 
 ## Generic otions
 lang: ru-RU
