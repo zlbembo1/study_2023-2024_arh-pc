@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "10"
-author: "Разанацуа Сара Естэл"
+author: "Бембо Жозе лумингу"
 
 ## Generic otions
 lang: ru-RU
